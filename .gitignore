@@ -1,9 +1,11 @@
-#node_modules
+#directories
 node_modules/
+dist/
 
-#.DS_Store
+#hidden files
 .DS_Store
 
+#files
 package-lock.json
+notes.txt
 
-dist/
